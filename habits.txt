@@ -3,3 +3,6 @@ make some breaks.
 
 2. Keep your eyes on the goal. Don't get stuck on small funny
 problem.
+
+3. Keep code as simple as possible. It should help to make your 
+code reusable and easier to manage by others.
