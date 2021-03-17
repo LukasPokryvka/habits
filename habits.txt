@@ -6,3 +6,6 @@ problem.
 
 3. Keep code as simple as possible. It should help to make your 
 code reusable and easier to manage by others.
+
+4. Find your "productive time", when you are not interrupted for 
+at least several hours.
